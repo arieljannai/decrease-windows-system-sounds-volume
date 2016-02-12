@@ -14,15 +14,15 @@ I didn't want to disable them completely and couldn't find a built-in way to adj
   * copy [decrease-volume.txt](decrease-volume.txt) to the installation folder under the `Chains` directory - `C:\Users\%USERNAME%\AppData\Roaming\Audacity\Chains\decrease-volume.txt`
 
 ### Backup
-* Copy and backup the folder `C:\Windows\Media` to `C:\Windows\Media.bak` or something like that. Make it that way that the original folder is the backup - `bak`, and the one you copy will be the actual `Media`. That way the `Media` folder still has the same permissions and we don't ruin it
+Copy and backup the folder `C:\Windows\Media` to `C:\Windows\Media.bak` or something like that. Make it that way that the original folder is the backup - `bak`, and the one you copy will be the actual `Media`. That way the `Media` folder still has the same permissions and we don't ruin it
 
 ### Do it!
 * Open audacity
-* File -> Apply Chain -> select `decrease-volume` -> Apply to Files
+* File -> Apply Chain -> select `decrease-volume` -> Apply to Files :s
 * Select all the files in `Media` folder
 * When the process finishes, all the files will be in a new folder named `cleaned`
 * Copy all the files to `Media` and replace them (don't worry, remember we have the original as a backup in `Media.bak`!)
-* Now it's quieter, enjoy :)
+* Now it's quieter, enjoy :sunglasses:
 
 ## Customization
 You can chose in how much to decrease the volume by changing the level (dB) in [decrease-volume.txt](decrease-volume.txt)
