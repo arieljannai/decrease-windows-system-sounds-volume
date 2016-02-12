@@ -27,5 +27,5 @@ Copy and backup the folder `C:\Windows\Media` to `C:\Windows\Media.bak` or somet
 ## Customization
 You can chose in how much to decrease the volume by changing the level (dB) in [decrease-volume.txt](decrease-volume.txt)
 
-### Rollback
+### Restore
 Just go back to your original `Media` folder!
