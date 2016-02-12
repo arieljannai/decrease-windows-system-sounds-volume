@@ -6,7 +6,7 @@ They're strong, annoying and are never in harmony with other sounds or music.
 I didn't want to disable them completely and couldn't find a built-in way to adjust only their volume without harming other things.
 
 ## Examples:
-You can here the original or the lowered one to see the difference:
+You can hear the original or the lowered one to see the difference:
  1. [Origianl](https://clyp.it/yuccfowh) / [Lower](https://clyp.it/gifemwj2)
  2. [Origianl](https://clyp.it/kuabr1du) / [Lower](https://clyp.it/blgkxcrj)
 
