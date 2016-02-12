@@ -7,15 +7,15 @@ I didn't want to disable them completely and couldn't find a built-in way to adj
 
 ## Examples:
 You can here the original or the lowered one to see the difference:
- 1. [Origianl](https://clyp.it/yuccfowh) or [Lower](https://clyp.it/gifemwj2)
- 2. [Origianl](https://clyp.it/kuabr1du) or [Lower](https://clyp.it/blgkxcrj)
+ 1. [Origianl](https://clyp.it/yuccfowh) / [Lower](https://clyp.it/gifemwj2)
+ 2. [Origianl](https://clyp.it/kuabr1du) / [Lower](https://clyp.it/blgkxcrj)
 
 ## What to do
 ### Download a ready archive
-Download an [archive (~6mb)](http://www.filedropper.com/media_6) with my `Media` folder which is already decreased (and then jump to the backup section)
+Download an [archive (~6mb)](http://www.filedropper.com/media_6) with my `Media` folder which is already decreased (and then jump to the *backup* section)
 
 
-OR
+***OR***
 
 
 ### Install and configure [audacity](http://www.audacityteam.org/) to batch manipulate all the audio files.
