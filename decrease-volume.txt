@@ -1,0 +1,2 @@
+Normalize:ApplyGain="1" Level="-35.000000000000" RemoveDcOffset="1" StereoIndependent="0"
+ExportWav:
