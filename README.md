@@ -14,7 +14,7 @@ I didn't want to disable them completely and couldn't find a built-in way to adj
   * copy [decrease-volume.txt](decrease-volume.txt) to the installation folder under the `Chains` directory - `C:\Users\%USERNAME%\AppData\Roaming\Audacity\Chains\decrease-volume.txt`
 
 ### Backup
-Copy and backup the folder `C:\Windows\Media` to `C:\Windows\Media.bak` or something like that. Make it that way that the original folder is the backup - `bak`, and the one you copy will be the actual `Media`. That way the `Media` folder still has the same permissions and we don't ruin it
+Copy and backup the folder `C:\Windows\Media` to `C:\Windows\Media.bak` or something like that. Do it in a way that the original folder is the backup - `bak`, and the one you copy will be the actual `Media`. That way the `Media.bak` folder will keep the permissions and we won't ruin it
 
 ### Do it!
 * Open audacity
