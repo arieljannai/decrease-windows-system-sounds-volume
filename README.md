@@ -1,5 +1,5 @@
 # Decrease Windows System Sounds Volume
-Decrease the volume of the sounds in windows (tested on 10, should work on other versions as well).<BR>
+Decrease the volume of the system sounds in windows (tested on 10, should work on other versions as well).<BR>
 They're strong, annoying and are never in harmony with other sounds or music.
 <BR>
 
